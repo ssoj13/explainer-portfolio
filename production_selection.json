@@ -1,0 +1,150 @@
+{
+  "schema_version": "2.0.0",
+  "updated_at": "2026-10-28T22:41:57.560122-07:00",
+  "project": "The 21 Empty Rows — Apple Style 30s Production",
+  "status": "APPROVED_BY_DIRECTOR",
+  "lead_hero": {
+    "persona_id": "01",
+    "name": "Alexei",
+    "age": 38,
+    "role": "Senior Systems Architect",
+    "preferred_model": "gpt_image_2",
+    "model_identifier": "openai/gpt-image-2",
+    "seed": "4118246835 (Krea Job UUID: f57775b3)",
+    "job_or_task_id": "f57775b3-6895-41e5-9549-1d946f121f48",
+    "portrait_path": "05_gpt_image_2_apple_style/casting_portraits/persona_01_Alexei_38_Lead_Systems_Architect.jpg",
+    "source_grid_path": "05_gpt_image_2_apple_style/casting_grids/grid_01_heroes_01_04.jpg",
+    "prompt": "Create a photorealistic 2x2 split-screen casting board of 4 individual head-and-shoulders cinema portraits separated by thin dark divider lines, shot on large-format 65mm digital cinema camera with 85mm portrait lens, shallow depth of field, corporate architectural minimalism lighting, natural skin pores and realistic textures, zero CGI look.\nTop-Left panel labeled \"#01 — ALEXEI, 38\": Eastern European Senior Systems Architect in Los Angeles, sharp cheekbones, observant grey-blue eyes, light 3-day stubble, dark charcoal merino crewneck sweater, calm intense expression.\nTop-Right panel labeled \"#02 — MARCUS, 42\": Tired intelligent systems engineer with slightly tousled dark hair, dark circles under eyes, tailored navy minimalist work jacket under linear diffused ceiling lights.\nBottom-Left panel labeled \"#03 — KENJI, 36\": Japanese-American Lead Performance Engineer, minimalist titanium-rimmed glasses, black mock-neck sweater, calm analytical expression in a glass-and-aluminum lab.\nBottom-Right panel labeled \"#04 — DAVID, 45\": Veteran C++ and SQLite kernel architect, neatly trimmed salt-and-pepper beard, piercing focused gaze, dark slate overshirt."
+  },
+  "secondary_cast": [
+    {
+      "persona_id": "05",
+      "name": "Arthur",
+      "assigned_role": "The Daemon Inside the Loop (iCloudPhotos.exe Clerk)",
+      "preferred_model": "gpt_image_2",
+      "portrait_path": "05_gpt_image_2_apple_style/casting_portraits/persona_05_Arthur_52_Macrodata_Sync_Clerk.jpg"
+    },
+    {
+      "persona_id": "06",
+      "name": "Ethan",
+      "assigned_role": "Junior Author of 'WHERE asset_id = NULL'",
+      "preferred_model": "gpt_image_2",
+      "portrait_path": "05_gpt_image_2_apple_style/casting_portraits/persona_06_Ethan_26_Junior_Who_Wrote_Bug.jpg"
+    },
+    {
+      "persona_id": "09",
+      "name": "Aria",
+      "assigned_role": "Surgical AI Agent Avatar (Shot 05 B-Tree Patch)",
+      "preferred_model": "gpt_image_2",
+      "portrait_path": "05_gpt_image_2_apple_style/casting_portraits/persona_09_Aria_30_Surgical_AI_Architect.jpg"
+    },
+    {
+      "persona_id": "19",
+      "name": "Ray",
+      "assigned_role": "SCE Grid Inspector ($250 / 730 kWh Meter)",
+      "preferred_model": "gpt_image_2",
+      "portrait_path": "05_gpt_image_2_apple_style/casting_portraits/persona_19_Ray_48_SCE_Utility_Inspector.jpg"
+    },
+    {
+      "persona_id": "10",
+      "name": "Kaelen",
+      "assigned_role": "Database Forensics Lead (SQLite[2067])",
+      "preferred_model": "nano_banana_pro",
+      "model_identifier": "google/nano-banana-pro",
+      "seed": "1793249002325 (Subagent Artifact Timestamp ID)",
+      "job_or_task_id": "agy-subagent-1c5c2885-step-60-grid_03",
+      "portrait_path": "04_apple_style_casting_and_production/casting_portraits/persona_10_Kaelen_33_Autonomous_Agent.jpg"
+    },
+    {
+      "persona_id": "04",
+      "name": "David",
+      "assigned_role": "SCE Utility Grid Inspector ($250 / 730 kWh Meter)",
+      "preferred_model": "runway_gen_4",
+      "model_identifier": "runway/gen-4",
+      "seed": "298150",
+      "job_or_task_id": "82125370-31ec-4ef2-b1d6-00b4b71d464d",
+      "portrait_path": "06_gen_4_image_apple_style/casting_portraits/persona_04_David_45_Cpp_SQLite_Greybeard.jpg"
+    },
+    {
+      "persona_id": "08",
+      "name": "Viktor",
+      "assigned_role": "Cupertino Cloud VP / Executive Reviewer",
+      "preferred_model": "nano_banana_pro",
+      "model_identifier": "google/nano-banana-pro",
+      "seed": "1793248964490 (Subagent Artifact Timestamp ID)",
+      "job_or_task_id": "agy-subagent-1c5c2885-step-58-grid_02",
+      "portrait_path": "04_apple_style_casting_and_production/casting_portraits/persona_08_Viktor_60_Stoic_Chief_Archivist.jpg"
+    }
+  ],
+  "shot_selections": {
+    "shot_01": {
+      "approved_model": "nano_banana_pro",
+      "keyframe_path": "04_apple_style_casting_and_production/keyframes/shot_01_apple_monolith_redline.jpg",
+      "notes": "Keep numbered blades 01..12 with Blade 04 glowing crimson at 100% CPU overload.",
+      "model_identifier": "google/nano-banana-pro",
+      "seed": "1793251152746 (Artifact Timestamp Seed)",
+      "job_or_task_id": "agy-subagent-1c5c2885-v5-envA-shot_01",
+      "prompt": "Photorealistic live-action 65mm cinema wide establishing shot inside a warm, luxurious lived-in California modern oceanfront penthouse living room in Marina del Rey at sunset twilight. Absolutely zero concrete walls, no industrial brutality. Wide-plank honey European oak hardwood floors, warm cedar-slat wood ceiling with subtle warm recessed lighting, a cozy cream boucle sofa with warm throw pillows, a low travertine stone fireplace with a soft flickering flame, a potted indoor Mediterranean olive tree, open floating shelves with architectural art books, and a warm mid-century brass floor lamp. Fully open floor-to-ceiling motorized sliding glass doors lead onto an expansive teak wood balcony deck with seamless glass railings overlooking an unobstructed, breathtaking panoramic vista of the Marina del Rey harbor water, luxury yacht masts, coastal palm trees, and the Pacific Ocean horizon under a golden-hour violet-rose sunset sky. On the right, at a custom live-edge American walnut and brushed-aluminum executive desk with a frameless 32-inch Apple Pro Display XDR monitor, sits the 38-year-old systems architect (#01 Alexei from the reference portrait: short dark hair, sharp jawline, light 3-day stubble, wearing a fitted dark charcoal merino crewneck sweater). Standing neatly beside his desk is a sleek custom 12-core anodized titanium-and-walnut desktop workstation tower: 11 core modules glow in calm cool cyan-teal, while Core #04 (bottom right module) glows hot in violent warning crimson-orange at 100% CPU overload, quietly venting a delicate thin plume of thermal steam. Shot on ARRI Alexa 65, Panavision Primo 70, Kodak Vision3 500T color science, Roger Deakins warm motivated lighting, shallow depth of field, fine film grain, live-action cinema realism.",
+      "environment": "Environment A — Warm California Oceanfront Penthouse (Marina del Rey)"
+    },
+    "shot_02": {
+      "approved_model": "nano_banana_pro",
+      "keyframe_path": "04_apple_style_casting_and_production/keyframes/shot_02_apple_infinite_loop_desk.jpg",
+      "notes": "Medium push-in to cantilevered desk with iCloudPhotos.exe // 00:04.00 telemetry.",
+      "model_identifier": "google/nano-banana-pro",
+      "seed": "1793251183598 (Artifact Timestamp Seed)",
+      "job_or_task_id": "agy-subagent-1c5c2885-v5-envA-shot_02",
+      "prompt": "Raw live-action 65mm cinema medium push-in shot to the live-edge walnut desk inside the exact same warm luxury oak-and-cedar oceanfront penthouse living room from the Shot 01 reference image. In the background through the open sliding glass doors, the wide panoramic view of the Marina del Rey yacht harbor, palm trees, and twilight ocean horizon is softly out of focus. Bespoke wide-plank honey European oak floors and warm cedar-slat ceiling. The 38-year-old systems architect Alexei (#01, short dark hair, stubble, fitted dark charcoal merino crewneck sweater) is seated typing with focused concern at the live-edge walnut desk. Beside the desk on the floor, the exact same custom titanium-and-walnut workstation tower has its bottom-right Core #04 glowing bright warning crimson-orange and quietly venting a thin plume of white thermal steam. On his frameless Apple Pro Display XDR, an Apple-designed diagnostic progress timeline is stuck on a frozen red loop. Mounted flush on the warm limestone wall near the desk, a sleek walnut-framed smart home status display clearly reads in crisp San Francisco typography: \"iCloudPhotos.exe // 00:04.00 // 6-YEAR INFINITE LOOP\". ARRI Alexa 65, Panavision Primo 70, warm tungsten practical lighting, fine 35mm film grain, photorealistic live-action realism.",
+      "environment": "Environment A — Warm California Oceanfront Penthouse (Marina del Rey)"
+    },
+    "shot_03": {
+      "approved_model": "nano_banana_pro",
+      "keyframe_path": "04_apple_style_casting_and_production/keyframes/shot_03_apple_null_dam_2067.jpg",
+      "notes": "Crisp SQLite[2067] modal and 21 red ASSET_ID: NULL bars blocking 5,376 photos.",
+      "model_identifier": "google/nano-banana-pro",
+      "seed": "1793251225281 (Artifact Timestamp Seed)",
+      "job_or_task_id": "agy-subagent-1c5c2885-v5-envA-shot_03",
+      "prompt": "Raw unpolished live-action 65mm cinema macro over-the-shoulder shot past the shoulder of the 38-year-old systems architect Alexei (in his dark charcoal merino crewneck) seated at the live-edge walnut desk inside the exact same warm luxury oceanfront penthouse from the reference images. Camera focused tightly on the sharp frameless 32-inch Apple Pro Display XDR screen. Displayed on the monitor is an Apple-designed photo sync telemetry interface: exactly 21 stacked glowing crimson horizontal pill-shaped status bars reading \"ASSET_ID: NULL // WHERE asset_id = NULL\" physically dam up and block a turbulent stream of 5,376 miniature colorful family vacation and travel photo thumbnails. Centered over the grid is an elegant frosted-glass macOS alert modal card in crisp San Francisco typography: \"SQLite[2067]: UNIQUE CONSTRAINT FAILED // SCAN LATENCY: 518.3 ms\". In the soft bokeh background, the warm honey oak penthouse living room, cedar ceiling, travertine stone, and twinkling twilight yacht harbor lights through the open sliding glass balcony doors are softly blurred. ARRI Alexa 65, Panavision Primo 70 85mm lens, natural anti-glare screen reflections, tactile wool texture, fine film grain, photorealistic live-action.",
+      "environment": "Environment A — Warm California Oceanfront Penthouse (Marina del Rey)"
+    },
+    "shot_04": {
+      "approved_model": "gpt_image_2",
+      "keyframe_path": "05_gpt_image_2_apple_style/keyframes/shot_04_apple_exterior_glass_power_meter.jpg",
+      "notes": "Exterior rainy glass with SCE 730 kWh / $250.00 burned smart meter.",
+      "environment": "Environment B — Mid-Century Modern Hollywood Hills Glass Villa (Case Study House #22)",
+      "model_identifier": "openai/gpt-image-2",
+      "seed": "1181317636 (Krea Job UUID: 46697a04)",
+      "job_or_task_id": "46697a04-c292-4ef2-8c15-a1a8de9e7487",
+      "prompt": "Edit the source image to create Shot 4 (Exterior-to-Interior from the Infinity Pool Terrace Looking into the Mid-Century Modern Hollywood Hills Glass Villa). Camera stands outside on the cantilevered terrace beside the glowing infinity pool, looking in through the open floor-to-ceiling glass walls into the warm redwood living room where the Eames chair, the architect at his walnut desk, and the steaming crimson Blade #04 workstation tower are visible inside, with Los Angeles city lights sparkling in the glass. Mounted on the warm redwood-and-stone exterior terrace pillar on the right foreground is a sleek digital smart utility meter reading: \"SOUTHERN CALIFORNIA EDISON // 730 kWh // $250.00 BURNED // HIGH PEAK LOAD\"."
+    },
+    "shot_05": {
+      "approved_model": "gpt_image_2",
+      "keyframe_path": "05_gpt_image_2_apple_style/keyframes/shot_05_apple_surgical_ai_btree.jpg",
+      "notes": "Emerald optical laser + B-Tree graph (518 ms -> 2.5 ms // 205x FASTER).",
+      "environment": "Environment B — Mid-Century Modern Hollywood Hills Glass Villa (Case Study House #22)",
+      "model_identifier": "openai/gpt-image-2",
+      "seed": "4149837146 (Krea Job UUID: f7597d5a)",
+      "job_or_task_id": "f7597d5a-2346-4f97-beac-ff5154f2f40b",
+      "prompt": "Edit the source image to create Shot 5 (Surgical AI B-Tree Patch at the Mid-Century Walnut Desk in the exact same Hollywood Hills villa). Medium shot of the systems architect at the walnut desk as a precision emerald-mint optical diagnostic laser sweeps across the studio monitor, dissolving the red error bars into golden sparks and locking a glowing 3D emerald B-Tree index graph (\"LATENCY: 518 ms -> 2.5 ms // 205x FASTER\") into place while 5,376 photo thumbnails stream smoothly upward into a glowing iCloud icon and the workstation tower cools to calm cyan."
+    },
+    "shot_06": {
+      "approved_model": "gpt_image_2",
+      "keyframe_path": "05_gpt_image_2_apple_style/keyframes/shot_06_apple_emerald_stasis.jpg",
+      "notes": "Pixel-locked wide return: 0.00% CPU emerald stasis + Marina del Rey sunrise.",
+      "model_identifier": "openai/gpt-image-2",
+      "seed": "3169302403 (Krea Job UUID: bce7b783)",
+      "job_or_task_id": "bce7b783-116f-4a8f-a83a-00dd906e62ca",
+      "prompt": "Edit the source image to create Shot 6 (100% Pixel-Identical Camera Angle and Mid-Century Modern Hollywood Hills Villa Geometry as the source image, Transformed to Cold Emerald Stasis at Golden Sunrise). Preserve the exact camera angle, redwood ceiling, Eames Lounge chair, infinity pool terrace, walnut desk, 12-blade workstation tower, and architect from the source image. Change only the workstation state and time of day: crimson Blade #04 and its thermal steam are completely gone; all 12 blades now glow in uniform silent emerald-white stasis, the monitor reads \"CPU: 0.00% // 5,376 PHOTOS SYNCED // THERMAL: OPTIMAL\", and outside the corner glass walls a serene golden California sunrise illuminates the Hollywood Hills, Los Angeles basin, and infinity pool.",
+      "environment": "Environment B — Mid-Century Modern Hollywood Hills Glass Villa (Case Study House #22)"
+    }
+  },
+  "production_pipeline": {
+    "video_engine": "kling_4_0_pro_1080p",
+    "draft_first": true,
+    "resolution": "1920x1080 (16:9 Cinema)",
+    "duration_seconds": 30,
+    "voiceover_language": "EN",
+    "sound_design": "Apple TV+ Severance Minimalist Sub-Bass Pulse -> 60Hz Thermal Hum -> Glass Chime Silence",
+    "director_notes": "Ensure strict character face lock from selected Lead Hero portrait across Shots 01, 02, 03, 05, 06."
+  }
+}
