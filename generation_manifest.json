@@ -2208,5 +2208,91 @@
         }
       }
     }
-  ]
+  ],
+  "final_video_production": {
+    "engine": "kling/kling-4",
+    "name": "Kling 4.0 Pro (1080p Native Audio + Reference Lock)",
+    "resolution": "1920x1080",
+    "duration_seconds": 30.25,
+    "master_video_path": "07_final_kling_4_0_master_cut/the_21_empty_rows_30s_master_1080p.mp4",
+    "native_audio_video_path": "07_final_kling_4_0_master_cut/the_21_empty_rows_30s_native_audio.mp4",
+    "voiceover_path": "07_final_kling_4_0_master_cut/voiceover_en_elevenlabs_v4.mp3",
+    "voiceover_job_id": "b4364974-b178-4686-b53a-3bfe0fff321f",
+    "score_path": "07_final_kling_4_0_master_cut/score_severance_30s.mp3",
+    "score_job_id": "2f030aa8-b846-434a-b7c4-321d8bf2032e",
+    "shots": [
+      {
+        "shot_id": "shot_01",
+        "title": "Shot 01 (00:00–00:05) — Oceanfront Penthouse Redline",
+        "job_id": "d6ef0e76-0d7f-4225-9053-3605623d281d",
+        "model": "kling/kling-4",
+        "local_path": "07_final_kling_4_0_master_cut/shots/shot_01_penthouse_redline.mp4",
+        "remote_url": "https://app-uploads.krea.ai/public/10363373-9369-4d98-852b-f770f87739ab-video.mp4",
+        "start_image": "04_apple_style_casting_and_production/keyframes/shot_01_apple_monolith_redline.jpg",
+        "end_image": "04_apple_style_casting_and_production/keyframes/shot_02_apple_infinite_loop_desk.jpg"
+      },
+      {
+        "shot_id": "shot_02",
+        "title": "Shot 02 (00:05–00:10) — The 6-Year Infinite Loop Push-In",
+        "job_id": "21814c34-de82-4cf7-99a0-901d2e435de0",
+        "model": "kling/kling-4",
+        "local_path": "07_final_kling_4_0_master_cut/shots/shot_02_penthouse_loop_desk.mp4",
+        "remote_url": "https://app-uploads.krea.ai/public/cc0179a2-88df-430e-a4ff-21f3300357b2-video.mp4",
+        "start_image": "04_apple_style_casting_and_production/keyframes/shot_02_apple_infinite_loop_desk.jpg",
+        "end_image": "04_apple_style_casting_and_production/keyframes/shot_03_apple_null_dam_2067.jpg"
+      },
+      {
+        "shot_id": "shot_03",
+        "title": "Shot 03 (00:10–00:15) — 21 NULL Rows & SQLite[2067] Collision",
+        "job_id": "6a4f5c66-e778-4723-bc2d-59e2529db806",
+        "model": "kling/kling-4",
+        "local_path": "07_final_kling_4_0_master_cut/shots/shot_03_penthouse_null_dam_2067.mp4",
+        "remote_url": "https://app-uploads.krea.ai/public/273a43c8-bdaa-48d8-a2d8-62f4f5a89f42-video.mp4",
+        "start_image": "04_apple_style_casting_and_production/keyframes/shot_03_apple_null_dam_2067.jpg",
+        "reference_images": [
+          "persona_01_Alexei",
+          "persona_10_Kaelen"
+        ]
+      },
+      {
+        "shot_id": "shot_04",
+        "title": "Shot 04 (00:15–00:20) — Hollywood Hills Terrace & SCE Smart Meter ($250 / 730 kWh)",
+        "job_id": "eef13b5a-b646-40cf-9e6c-3c93ece0599d",
+        "model": "kling/kling-4",
+        "local_path": "07_final_kling_4_0_master_cut/shots/shot_04_villa_exterior_power_meter.mp4",
+        "remote_url": "https://app-uploads.krea.ai/public/6a348a95-9ee4-4929-81ec-43635545b177-video.mp4",
+        "start_image": "05_gpt_image_2_apple_style/keyframes/shot_04_apple_exterior_glass_power_meter.jpg",
+        "reference_images": [
+          "persona_19_Ray",
+          "persona_04_David"
+        ]
+      },
+      {
+        "shot_id": "shot_05",
+        "title": "Shot 05 (00:20–00:25) — Surgical AI B-Tree Patch (205x Faster)",
+        "job_id": "6089abda-fc84-432e-a061-e438142a31a9",
+        "model": "kling/kling-4",
+        "local_path": "07_final_kling_4_0_master_cut/shots/shot_05_villa_surgical_ai_btree.mp4",
+        "remote_url": "https://app-uploads.krea.ai/public/7e3430d7-77ad-4b80-a219-ae43e218546b-video.mp4",
+        "start_image": "05_gpt_image_2_apple_style/keyframes/shot_05_apple_surgical_ai_btree.jpg",
+        "reference_images": [
+          "persona_01_Alexei",
+          "persona_09_Aria"
+        ]
+      },
+      {
+        "shot_id": "shot_06",
+        "title": "Shot 06 (00:25–00:30) — Cold Emerald Stasis (0.00% CPU) & Sunrise",
+        "job_id": "2845c11b-e067-46ac-bfbb-cd803b12913c",
+        "model": "kling/kling-4",
+        "local_path": "07_final_kling_4_0_master_cut/shots/shot_06_villa_emerald_sunrise.mp4",
+        "remote_url": "https://app-uploads.krea.ai/public/b55f5988-9c21-4f4b-9050-9179a42d6278-video.mp4",
+        "start_image": "05_gpt_image_2_apple_style/keyframes/shot_06_apple_emerald_stasis.jpg",
+        "reference_images": [
+          "persona_01_Alexei",
+          "persona_17_Sasha"
+        ]
+      }
+    ]
+  }
 }

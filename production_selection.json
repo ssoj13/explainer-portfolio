@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0.0",
-  "updated_at": "2026-10-28T22:41:57.560122-07:00",
+  "updated_at": "2026-10-28T22:43:31.283911-07:00",
   "project": "The 21 Empty Rows — Apple Style 30s Production",
   "status": "APPROVED_BY_DIRECTOR",
   "lead_hero": {
@@ -74,6 +74,26 @@
       "seed": "1793248964490 (Subagent Artifact Timestamp ID)",
       "job_or_task_id": "agy-subagent-1c5c2885-step-58-grid_02",
       "portrait_path": "04_apple_style_casting_and_production/casting_portraits/persona_08_Viktor_60_Stoic_Chief_Archivist.jpg"
+    },
+    {
+      "persona_id": "15",
+      "name": "Henrik",
+      "assigned_role": "Cupertino Cloud VP / Executive Reviewer",
+      "preferred_model": "gpt_image_2",
+      "model_identifier": "openai/gpt-image-2",
+      "seed": "2756184683 (Krea Job UUID: a4480a6b)",
+      "job_or_task_id": "a4480a6b-7ed6-48ce-90fa-0f3bf4716c7e",
+      "portrait_path": "05_gpt_image_2_apple_style/casting_portraits/persona_15_Henrik_55_Severance_Board_Exec.jpg"
+    },
+    {
+      "persona_id": "17",
+      "name": "Sasha",
+      "assigned_role": "Creative Friend (Owner of 5,376 Photos)",
+      "preferred_model": "gpt_image_2",
+      "model_identifier": "openai/gpt-image-2",
+      "seed": "2136193416 (Krea Job UUID: 7f53b988)",
+      "job_or_task_id": "7f53b988-841d-44ba-bf44-5eb0f5fb9a31",
+      "portrait_path": "05_gpt_image_2_apple_style/casting_portraits/persona_17_Sasha_40_Creative_Friend.jpg"
     }
   ],
   "shot_selections": {
