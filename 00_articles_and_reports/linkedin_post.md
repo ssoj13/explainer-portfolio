@@ -10,7 +10,7 @@ For years, two background processes had been quietly pinning a full CPU core at 
 1️⃣ `CompatTelRunner.exe` (which had accumulated 100.2 CPU hours over the last 4 days)
 2️⃣ `iCloudPhotos.exe` — a persistent single-core loop that had lived on my machine for 6 years and respawned whenever terminated.
 
-Today I asked my AI coding agent (Antigravity) to audit the workstation and figure out what `iCloudPhotos.exe` was actually doing on that core for the past 6 years.
+Finally I got tired of that and asked Antigravity to audit the workstation and figure out what `iCloudPhotos.exe` was actually doing on that core for the past 6 years.
 
 In 15 minutes, the agent inspected 1.0 GB of local logs, analyzed the 1.75 GB `client.db` SQLite database (117,543 rows), extracted the SQL queries from the binary, and uncovered a chain of **six classic systems bugs**:
 
@@ -41,7 +41,7 @@ More importantly: **hundreds of millions of people** run these tools daily. At g
 💡 **The Takeaway:**
 Going from a noisy fan to diagnosing C++ format strings, fixing inverted SQLite query plans, and injecting self-healing triggers took 15 minutes with an AI agent. This superpower is no longer exclusive—anyone can use it today. The bottleneck is no longer having the superpower; it’s knowing how to apply it and what questions to ask.
 
-#SystemsEngineering #RustLang #SQLite #PerformanceEngineering #AIAgents #Windows11 #Apple #Microsoft #SoftwareEngineering
+#Rust #RustLang #SQLite #PerformanceEngineering #AIAgents #Windows11 #Apple #Microsoft #Neuroslop
 
 ---
 
